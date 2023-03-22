@@ -1,0 +1,7 @@
+.bottom-border {
+    background-color: lightgrey;
+    padding: 10px;
+    border-color:blue;
+    border-style:solid;
+    border-width:3px;
+}
