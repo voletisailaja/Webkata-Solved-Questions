@@ -1,0 +1,3 @@
+#alignToRight{
+    text-align: right;
+}
