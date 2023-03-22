@@ -1,0 +1,10 @@
+ <form action="/action_page.php" method="get">
+       <input type="checkbox" name="vehicle1" value="Bike">
+  <label for="type1"> I am an extrovert</label><br>
+  <input type="checkbox" name="vehicle2" value="Car">
+  <label for="type2"> I am an introvert</label><br>
+  <input type="checkbox" name="vehicle3" value="Boat" checked>
+  <label for="type3"> I am polite</label><br><br>
+  <input type="submit" value="Submit">
+   
+   </form>
