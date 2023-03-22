@@ -1,0 +1,13 @@
+ <style>
+    .center {
+        border: solid green;
+        text-align: center;
+    }
+    </style>
+  </head>
+  <body>
+  
+  <div class="center">
+  <p>Code well.</p>
+</div>
+  </body>
