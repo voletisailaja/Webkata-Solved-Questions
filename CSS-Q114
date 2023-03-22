@@ -1,0 +1,6 @@
+.blue-rectangle{
+    height:100px;
+    width:200px;
+    border: solid 2px red;
+    background-color:blue;
+}
