@@ -1,0 +1,4 @@
+ <style>.d{height: 200px; width: 50%; background-color: pink;}</style>
+  <body>
+<div class= "d"></div>
+  </body>
