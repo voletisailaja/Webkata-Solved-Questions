@@ -1,0 +1,2 @@
+p { border-width:10px; border-style:solid;}
+.solid{outline-style:solid;}
