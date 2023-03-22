@@ -1,0 +1,2 @@
+p { border-color: blue; border-width:5px; border-style:dashed;}
+.dashed{outline-style:dashed;}
